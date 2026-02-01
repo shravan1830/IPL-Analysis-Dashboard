@@ -128,6 +128,10 @@ Portfolio Value: Demonstrates Power BI, DAX, and data modeling expertise
 
 ## Dashboard Preview
 
+[IPL Analysis Dashboard]:- https://github.com/shravan1830/IPL-Analysis-Dashboard/blob/main/IPL%20Analysis%20Dashboard%20Screenshot.png
+
+*Note:* The screenshot above represents the main overview page of the IPL Analysis Power BI dashboard.
+
 
 ## Future Enhancements
 
