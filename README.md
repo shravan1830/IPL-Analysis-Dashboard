@@ -141,7 +141,7 @@ Match-level drill-through pages
 
 Designed & Developed by Shravan Kalzunkar
 
-🔗 GitHub Repository: (Add project link here)
+🔗 GitHub Repository: https://github.com/shravan1830/IPL-Analysis-Dashboard
 
 ⭐ If you found this project insightful, feel free to star the repository!
 
